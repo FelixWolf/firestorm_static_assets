@@ -667,3 +667,22 @@ e95c96a5-293c-bb7a-57ad-ce2e785ad85f sounds/thunder.sound
 2c346eda-b60c-ab33-1119-b8941916a499 sounds/window close.sound
 c80260ba-41fd-8a46-768a-6bf236360e3a sounds/window open.sound
 6cf2be26-90cb-2669-a599-f5ab7698225f sounds/zipper.sound
+
+#####################
+#Firestorm additions#
+#####################
+#Animations
+63db3570-950d-089c-54c5-b406cb32635b animations/PS_Arms_Down_Legs_together_bento.animatn
+46d5043d-6d86-c237-ab9c-c088d5608f37 animations/PS_Arms_down_sitting_bento.animatn
+767d488a-faa5-aeca-128f-af0b196967f1 animations/PS_Arms_downward_Legs_apart_bento.animatn
+c2a3ba2f-499f-6129-2c43-2085815b3c81 animations/PS_Arms_downward_Legs_together_bento.animatn
+9e6fbfdb-d83e-a590-d59d-571c49002a7c animations/PS_Arms_forward_Legs_apart_bento.animatn
+64d9b2e0-a124-b5fa-73f1-8703218f9aa8 animations/PS_Arms_forward_Legs_together_bento.animatn
+a5b4ae9f-05d2-998f-5ca5-63ac5cfdf595 animations/PS_Arms_straight_Legs_apart_bento.animatn
+16ca97b1-732d-8964-f044-1575d8bc2f98 animations/PS_Arms_straight_sitting_bento.animatn
+284ff48c-5f45-8351-c459-020f0bc1cd77 animations/PS_Arms_upward_Legs_apart_bento.animatn
+76e563a3-6a97-0487-f8dc-70a673fa58d8 animations/PS_Arms_upward_Legs_together_bento.animatn
+d6fee4de-09af-80b2-72c9-dd5eb509f18c animations/PS_T_Pose_bento.animatn
+
+#Textures
+
