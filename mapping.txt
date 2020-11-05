@@ -1,0 +1,322 @@
+#Animations
+6b61c8e8-4747-0d75-12d7-e49ff207a4ca animations/avatar_express_afraid.animatn
+b5b4a67d-0aee-30d2-72cd-77b333e932ef animations/avatar_aim_r_bazooka.animatn
+46bb4359-de38-4ed8-6a22-f1f52fe8f506 animations/avatar_aim_l_bow.animatn
+3147d815-6338-b932-f011-16b56d9ac18b animations/avatar_aim_r_handgun.animatn
+ea633413-8006-180a-c3ba-96dd1d756720 animations/avatar_aim_r_rifle.animatn
+5747a48e-073e-c331-f6f3-7c2149613d3e animations/avatar_express_anger.animatn
+fd037134-85d4-f241-72c6-4f42164fedee animations/avatar_away.animatn
+c4ca6188-9127-4f31-0158-23c4e2f93304 animations/avatar_backflip.animatn
+18b3a4b5-b463-bd48-e4b6-71eaac76c515 animations/avatar_express_laugh.animatn
+db84829b-462c-ee83-1e27-9bbee66bd624 animations/avatar_blowkiss.animatn
+b906c4ba-703b-1940-32a3-0c7f7d791510 animations/avatar_express_bored.animatn
+82e99230-c906-1403-4d9c-3889dd98daba animations/avatar_bow.animatn
+349a3801-54f9-bf2c-3bd0-1ac89772af01 animations/avatar_brush.animatn
+9b0c1c4e-8ac7-7969-1494-28c874c4f668 animations/avatar_clap.animatn
+9ba1c942-08be-e43a-fb29-16ad440efc50 animations/avatar_courtbow.animatn
+201f3fdf-cb1f-dbec-201f-7333e328ae7c animations/avatar_crouch.animatn
+47f5f6fb-22e5-ae44-f871-73aaaf4a6022 animations/avatar_crouchwalk.animatn
+92624d3e-1068-f1aa-a5ec-8244585193ed animations/avatar_express_cry.animatn
+038fcec9-5ebd-8a8e-0e2e-6e71a0a1ac53 animations/avatar_turn_180.animatn
+6883a61a-b27b-5914-a61e-dda118a9ee2c animations/avatar_turnback_180.animatn
+b68a3d7c-de9e-fc87-eec8-543d787e5b0d animations/avatar_dance1.animatn
+928cae18-e31d-76fd-9cc9-2f55160ff818 animations/avatar_dance2.animatn
+30047778-10ea-1af7-6881-4db7a3a5a114 animations/avatar_dance3.animatn
+951469f4-c7b2-c818-9dee-ad7eea8c30b7 animations/avatar_dance4.animatn
+4bd69a1d-1114-a0b4-625f-84e0a5237155 animations/avatar_dance5.animatn
+cd28b69b-9c95-bb78-3f94-8d605ff1bb12 animations/avatar_dance6.animatn
+a54d8ee2-28bb-80a9-7f0c-7afbbe24a5d6 animations/avatar_dance7.animatn
+b0dc417c-1f11-af36-2e80-7e7489fa7cdc animations/avatar_dance8.animatn
+57abaae6-1d17-7b1b-5f98-6d11a6411276 animations/avatar_dead.animatn
+0f86e355-dd31-a61c-fdb0-3a96b9aad05f animations/avatar_drink.animatn
+514af488-9051-044a-b3fc-d4dbf76377c6 animations/avatar_express_embarrased.animatn
+666307d9-a860-572d-6fd4-c3ab8865c094 animations/avatar_falldown.animatn
+f5fc7433-043d-e819-8298-f519a119b688 animations/avatar_female_walk.animatn
+c1bc7f36-3ba0-d844-f93c-93be945d644f animations/avatar_angry_fingerwag.animatn
+7db00ccd-f380-f3ee-439d-61968ec69c8a animations/avatar_fist_pump.animatn
+aec4610c-757f-bc4e-c092-c6e9caf18daf animations/avatar_fly.animatn
+2b5a38b2-5e00-3a97-a495-4c826bc443e6 animations/avatar_flyslow.animatn
+9b29cd61-c45b-5689-ded2-91756b8d76a9 animations/avatar_hello.animatn
+ef62d355-c815-4816-2474-b1acc21094a6 animations/avatar_hold_r_bazooka.animatn
+8b102617-bcba-037b-86c1-b76219f90c88 animations/avatar_hold_l_bow.animatn
+efdc1727-8b8a-c800-4077-975fc27ee2f2 animations/avatar_hold_r_handgun.animatn
+3d94bad0-c55b-7dcc-8763-033c59405d33 animations/avatar_hold_r_rifle.animatn
+4ae8016b-31b9-03bb-c401-b1ea941db41d animations/avatar_hover.animatn
+20f063ea-8306-2562-0b07-5c853b37b31e animations/avatar_hover_down.animatn
+62c5de58-cb33-5743-3d07-9e4cd4352864 animations/avatar_hover_up.animatn
+5ea3991f-c293-392e-6860-91dfa01278a3 animations/avatar_impatient.animatn
+2305bd75-1ca9-b03b-1faa-b176b8a8c49e animations/avatar_jump.animatn
+709ea28e-1573-c023-8bf8-520c8bc637fa animations/avatar_jumpforjoy.animatn
+19999406-3a3a-d58c-a2ac-d72e555dcf51 animations/avatar_kissmybutt.animatn
+7a17b059-12b2-41b1-570a-186368b6aa6f animations/avatar_land.animatn
+ca5b3f14-3194-7a2b-c894-aa699b718d1f animations/avatar_laugh_short.animatn
+f4f00d6e-b9fe-9292-f4cb-0ae06ea58d57 animations/avatar_soft_land.animatn
+08464f78-3a8e-2944-cba5-0c94aff3af29 animations/avatar_motorcycle_sit.animatn
+315c3a41-a5f3-0ba4-27da-f893f769e69b animations/avatar_musclebeach.animatn
+5a977ed9-7f72-44e9-4c4c-6e913df8ae74 animations/avatar_no_head.animatn
+d83fa0e5-97ed-7eb2-e798-7bd006215cb4 animations/avatar_no_unhappy.animatn
+f061723d-0a18-754f-66ee-29a44795a32f animations/avatar_nyanya.animatn
+eefc79be-daae-a239-8c04-890f5d23654a animations/avatar_punch_onetwo.animatn
+b312b10e-65ab-a0a4-8b3c-1326ea8e3ed9 animations/avatar_peace.animatn
+17c024cc-eef2-f6a0-3527-9869876d7752 animations/avatar_point_me.animatn
+ec952cca-61ef-aa3b-2789-4d1344f016de animations/avatar_point_you.animatn
+7a4e87fe-de39-6fcb-6223-024b00893244 animations/avatar_prejump.animatn
+f3300ad9-3462-1d07-2044-0fef80062da0 animations/avatar_punch_l.animatn
+c8e42d32-7310-6906-c903-cab5d4a34656 animations/avatar_punch_r.animatn
+36f81a92-f076-5893-dc4b-7c3795e487cf animations/avatar_express_repulsed.animatn
+49aea43b-5ac3-8a44-b595-96100af0beda animations/avatar_kick_roundhouse_r.animatn
+35db4f7e-28c2-6679-cea9-3ee108f7fc7f animations/avatar_rps_countdown.animatn
+0836b67f-7f7b-f37b-c00a-460dc1521f5a animations/avatar_rps_paper.animatn
+42dd95d5-0bc6-6392-f650-777304946c0f animations/avatar_rps_rock.animatn
+16803a9f-5140-e042-4d7b-d28ba247c325 animations/avatar_rps_scissors.animatn
+05ddbff8-aaa9-92a1-2b74-8fe77a29b445 animations/avatar_run.animatn
+0eb702e2-cc5a-9a88-56a5-661a55c0676a animations/avatar_express_sad.animatn
+cd7668a6-7011-d7e2-ead8-fc69eff1a104 animations/avatar_salute.animatn
+e04d450d-fdb5-0432-fd68-818aaf5935f8 animations/avatar_shoot_l_bow.animatn
+6bd01860-4ebd-127a-bb3d-d1427e8e0c42 animations/avatar_shout.animatn
+70ea714f-3a97-d742-1b01-590a8fcd1db5 animations/avatar_express_shrug.animatn
+1a5fe8ac-a804-8a5d-7cbd-56bd83184568 animations/avatar_sit.animatn
+b1709c8d-ecd3-54a1-4f28-d55ac0840782 animations/avatar_sit_female.animatn
+1c7600d6-661f-b87b-efe2-d7421eb93c86 animations/avatar_sit_ground.animatn
+1a2bd58e-87ff-0df8-0b4c-53e047b0bb6e animations/avatar_sit_ground_constrained.animatn
+245f3c54-f1c0-bf2e-811f-46d8eeb386e7 animations/avatar_sit_generic.animatn
+a8dee56f-2eae-9e7a-05a2-6fb92b97e21e animations/avatar_sit_to_stand.animatn
+f2bed5f9-9d44-39af-b0cd-257b2a17fe40 animations/avatar_sleep.animatn
+d2f2ee58-8ad1-06c9-d8d3-3827ba31567a animations/avatar_smoke_idle.animatn
+6802d553-49da-0778-9f85-1599a2266526 animations/avatar_smoke_inhale.animatn
+0a9fb970-8b44-9114-d3a9-bf69cfe804d6 animations/avatar_smoke_throw_down.animatn
+eae8905b-271a-99e2-4c0e-31106afd100c animations/avatar_snapshot.animatn
+2408fe9e-df1d-1d7d-f4ff-1384fa7b350f animations/avatar_stand.animatn
+3da1d753-028a-5446-24f3-9c9b856d9422 animations/avatar_standup.animatn
+15468e00-3400-bb66-cecc-646d7c14458e animations/avatar_stand_1.animatn
+370f3a20-6ca6-9971-848c-9a01bc42ae3c animations/avatar_stand_2.animatn
+42b46214-4b44-79ae-deb8-0df61424ff4b animations/avatar_stand_3.animatn
+f22fed8b-a5ed-2c93-64d5-bdd8b93c889f animations/avatar_stand_4.animatn
+80700431-74ec-a008-14f8-77575e73693f animations/avatar_stretch.animatn
+1cb562b0-ba21-2202-efb3-30f82cdf9595 animations/avatar_stride.animatn
+41426836-7437-7e89-025d-0aa4d10f1d69 animations/avatar_surf.animatn
+313b9881-4302-73c0-c7d0-0e7a36b6c224 animations/avatar_express_surprise.animatn
+85428680-6bf9-3e64-b489-6f81087c24bd animations/avatar_sword_strike_r.animatn
+5c682a95-6da4-a463-0bf6-0f5b7be129d1 animations/avatar_talk.animatn
+11000694-3f41-adc2-606b-eee1d66f3724 animations/avatar_angry_tantrum.animatn
+aa134404-7dac-7aca-2cba-435f9db875ca animations/avatar_throw_r.animatn
+83ff59fe-2346-f236-9009-4e3608af64c1 animations/avatar_tryon_shirt.animatn
+56e0ba0d-4a9f-7f27-6117-32f2ebbf6135 animations/avatar_turnleft.animatn
+2d6daa51-3192-6794-8e2e-a15f8338ec30 animations/avatar_turnright.animatn
+c541c47f-e0c0-058b-ad1a-d6ae3a4584d9 animations/avatar_type.animatn
+6ed24bd8-91aa-4b12-ccc7-c97c857ab4e0 animations/avatar_walk.animatn
+7693f268-06c7-ea71-fa21-2b30d6533f8f animations/avatar_whisper.animatn
+b1ed7982-c68e-a982-7561-52a88a5298c0 animations/avatar_whistle.animatn
+869ecdad-a44b-671e-3266-56aef2e3ac2e animations/avatar_express_wink.animatn
+c0c4030f-c02b-49de-24ba-2331f43fe41c animations/avatar_wink_hollywood.animatn
+9f496bd2-589a-709f-16cc-69bf7df1d36c animations/avatar_express_worry.animatn
+15dd911d-be82-2856-26db-27659b142875 animations/avatar_yes_head.animatn
+b8c8b2a3-9008-1771-3bfc-90924955ab2d animations/avatar_yes_happy.animatn
+42ecd00b-9947-a97c-400a-bbc9174c7aeb animations/avatar_yoga_float.animatn
+
+33339176-7ddc-9397-94a4-bf3403cbc8f5 animations/avatar_walk_new.animatn
+1ab1b236-cd08-21e6-0cbc-0d923fc6eca2 animations/avatar_run_new.animatn
+d60c41d2-7c24-7074-d3fa-6101cea22a51 animations/avatar_female_walk_new.animatn
+85995026-eade-5d78-d364-94a64512cb66 animations/avatar_female_run_new.animatn
+
+#These animations were not included in static_assets
+#aa2df84d-cf8f-7218-527b-424a52de766e animations/avatar_express_afraid_emote.animatn
+#1a03b575-9634-b62a-5767-3a679e81f4de animations/avatar_express_anger_emote.animatn
+#214aa6c1-ba6a-4578-f27c-ce7688f61d0d animations/avatar_express_bored_emote.animatn
+#d535471b-85bf-3b4d-a542-93bea4f59d33 animations/avatar_express_cry_emote.animatn
+#d4416ff1-09d3-300f-4183-1b68a19b9fc1 animations/avatar_express_disdain_emote.animatn
+#0b8c8211-d78c-33e8-fa28-c51a9594e424 animations/avatar_express_embarrassed_emote.animatn
+#fee3df48-fa3d-1015-1e26-a205810e3001 animations/avatar_express_frown.animatn
+#1e8d90cc-a84e-e135-884c-7c82c8b03a14 animations/avatar_express_kiss.animatn
+#62570842-0950-96f8-341c-809e65110823 animations/avatar_express_laugh_emote.animatn
+#d63bc1f9-fc81-9625-a0c6-007176d82eb7 animations/avatar_express_open_mouth.animatn
+#f76cda94-41d4-a229-2872-e0296e58afe1 animations/avatar_express_repulsed_emote.animatn
+#eb6ebfb2-a4b3-a19c-d388-4dd5c03823f7 animations/avatar_express_sad_emote.animatn
+#a351b1bc-cc94-aac2-7bea-a7e6ebad15ef animations/avatar_express_shrug_emote.animatn
+#b7c7c833-e3d3-c4e3-9fc0-131237446312 animations/avatar_express_smile.animatn
+#728646d9-cc79-08b2-32d6-937f0a835c24 animations/avatar_express_surprise.animatn
+#835965c6-7f2f-bda2-5deb-2478737f91bf animations/avatar_express_tongue_out.animatn
+#b92ec1a5-e7ce-a76b-2b05-bcdb9311417e animations/avatar_express_toothsmile.animatn
+#da020525-4d94-59d6-23d7-81fdebf33148 animations/avatar_express_wink_emote.animatn
+#9c05e5c7-6f07-6ca4-ed5a-b230390c3950 animations/avatar_express_worry_emote.animatn
+#7570c7b5-1f22-56dd-56ef-a9168241bbb6 animations/avatar_hold_throw_r.animatn
+
+#Bodyparts
+26a762c3-7164-0bbf-a7d6-ea097a6d0314 bodyparts/Female Goth Outfit/Female Goth Shape.bodypart
+d40491cc-3629-a090-d11f-ee947d9125a8 bodyparts/Female Goth Outfit/Female Goth  Eyebrowshaper.bodypart
+df074f93-968a-2588-8ef5-7db3b21dff6d bodyparts/Female Goth Outfit/Eyes (Muted Green).bodypart
+83bf1baf-6fdc-9906-9ab7-3113a3728136 bodyparts/Female Goth Outfit/Female Goth Skin.bodypart
+b6e66a0e-f8db-0d4b-9259-7e9b20562b73 bodyparts/Female City Outfit/Eyes (Hazel Brown).bodypart
+8ac9b0b4-9409-383a-1339-5373895f5368 bodyparts/Female City Outfit/Female City Shape.bodypart
+3d6da7ba-e4a3-e08c-b52e-98a40cb4dc33 bodyparts/Female City Outfit/Female City Skin.bodypart
+b8de1c20-7eba-2101-f2e3-9ed132838dcc bodyparts/Female City Outfit/Female City Eyebrowshaper.bodypart
+6af61452-5a3b-7fd3-4604-dc397aa9184b bodyparts/Male Party Outfit/Male Party Shape.bodypart
+347df5d8-c73b-009d-f19d-df78aea8ec22 bodyparts/Male Party Outfit/Male Party Skin.bodypart
+149739c0-f677-4b4c-1587-e44be72dd7ef bodyparts/Male Party Outfit/Eyes (Muted Green).bodypart
+90e38814-7029-18a2-70ea-346ca73569aa bodyparts/Male Party Outfit/Male Party Eyebrowshaper.bodypart
+bd07ffa9-426c-69da-d27a-e54e4ebbc73c bodyparts/Female Student Outfit/Female Student Skin.bodypart
+57cbd4f1-c53e-020f-f455-5ad2a5bab98d bodyparts/Female Student Outfit/Female Student Shape.bodypart
+ce58f877-251f-b025-9227-4be3456faf58 bodyparts/Female Student Outfit/Eyes (Med Blue).bodypart
+944890c6-1960-b1a7-f50a-c05651720d7e bodyparts/Female Student Outfit/Female Student Eyebrowshaper.bodypart
+fe63b3df-0557-c6fe-836a-a353f8108660 bodyparts/Female Party Outfit/Female Party Skin.bodypart
+d08d1a27-9410-dbd7-cc4f-ae1a8837b49d bodyparts/Female Party Outfit/Female Party Eyebrowshaper.bodypart
+c5d0cab3-4a69-2f35-71ee-6dba0ce0c85c bodyparts/Female Party Outfit/Female Party Shape.bodypart
+5725fae1-0087-ec20-a4a0-eaa82d5c121b bodyparts/Female Party Outfit/Eyes (Amber Brown).bodypart
+7705007b-f459-0b49-e8f3-dd4eff6f82c2 bodyparts/Male City Outfit/Male City Skin.bodypart
+1232da7c-3d5b-a11b-cbee-d574aedc2e59 bodyparts/Male City Outfit/Male City Shape.bodypart
+e5c8f3c2-9e65-5c4b-03c4-d8205f626b37 bodyparts/Male City Outfit/Eyes (Dark Blue).bodypart
+cd55f18e-c1bf-70a5-5b53-a114fdc44930 bodyparts/Male City Outfit/Male City Eyebrowshaper.bodypart
+693f12af-3bd9-8dcd-0395-32a967cc812d bodyparts/Male Rocker Outfit/Male Rocker Skin.bodypart
+5af7de1f-e517-ae9a-13d8-4760c1ab4cc3 bodyparts/Male Rocker Outfit/Eyes (Brown).bodypart
+f4714624-bdc5-f596-5c6f-789b438becf9 bodyparts/Male Rocker Outfit/Male Rocker Shape.bodypart
+55c19b40-5303-d6ab-f003-5a2d926f4738 bodyparts/Male Rocker Outfit/Male Rocker Eyebrowshaper.bodypart
+8ccf1744-1509-7537-0fb5-1d33d2eefaf8 bodyparts/Male Designer Outfit/Eyes (Med Brown).bodypart
+0c5f60ae-1a54-1ee8-398d-7ed278552132 bodyparts/Male Designer Outfit/Male Designer Shape.bodypart
+aa9d6d53-2647-f731-97eb-e07a47febb57 bodyparts/Male Designer Outfit/Male Designer Eyebrowshaper.bodypart
+633b2da6-a46f-8de8-5fe6-1256fd48d991 bodyparts/Male Designer Outfit/Male Designer Skin.bodypart
+5dde08b6-59ec-5ca3-92a0-b9d7f532a768 bodyparts/Male Goth Outfit/Male Goth Eyebrowshaper.bodypart
+f67a2a68-6c1d-6fc0-29fd-7ec01c0b5946 bodyparts/Male Goth Outfit/Male Goth Skin.bodypart
+c8d70bed-535b-3d97-5d17-6136a209fbe6 bodyparts/Male Goth Outfit/Eyes (Velvet Brown).bodypart
+9b37423a-caf6-3bb6-f4e8-60a11ccee1af bodyparts/Male Goth Outfit/Male Goth Shape.bodypart
+792c8d21-c931-31be-0319-1779a0f8caf4 bodyparts/Female Designer Outfit/Eyes (Baby Blue).bodypart
+94669140-c63b-8805-5561-62f5e24206ea bodyparts/Female Designer Outfit/Female Designer Eyebrowshaper.bodypart
+590b2eac-a9fc-1e22-7874-782e3ded97d2 bodyparts/Female Designer Outfit/Female Designer Shape.bodypart
+f76e4009-1b0f-125f-1d81-e3d774f4a838 bodyparts/Female Designer Outfit/Female Designer Skin.bodypart
+bacd48be-6733-7842-dd1f-8802e920f3ba bodyparts/Male Student Outfit/Eyes (Spring Green).bodypart
+a00917ca-047d-a3ea-d246-63265f904a6e bodyparts/Male Student Outfit/Male Student Shape.bodypart
+51f3b303-a783-f0bd-9e98-9c094be13653 bodyparts/Male Student Outfit/Male Student Eyebrowshaper.bodypart
+2d408f13-f437-e00e-8f6d-b0857580b034 bodyparts/Male Student Outfit/Male Student Skin.bodypart
+5bac881c-fff8-b19a-49eb-ba253eb5af04 bodyparts/Female Rocker Outfit/Female Rocker Eyebrowshaper.bodypart
+205ae4a8-42c6-1c5c-b142-672864fafe8a bodyparts/Female Rocker Outfit/Female Rocker Skin.bodypart
+697ed804-815c-f195-597c-dce51b86713b bodyparts/Female Rocker Outfit/Eyes (Spring Green).bodypart
+f868fcfc-1377-396a-1635-4ac71a58a4fc bodyparts/Female Rocker Outfit/Female Rocker Shape.bodypart
+e5c8f3c2-9e65-5c4b-03c4-d8205f626b37 bodyparts/Eye Design Options (All Colors)/Eyes (Dark Blue).bodypart
+
+#Clothing
+c521ad1f-06f0-8711-f313-5737a38f0d78 clothing/Female Goth Outfit/Female Goth Trousers.clothing
+37ea8e97-1d16-b28d-8a48-7c88b39321cb clothing/Female Goth Outfit/Female Goth Bolero Jacket.clothing
+3fc36cff-74b6-a980-3e4c-8f93a1dae205 clothing/Female Goth Outfit/Female Goth Footshaper.clothing
+510cdb99-1764-a0ef-a7e7-beb70e8dc4a4 clothing/Female Goth Outfit/Female Goth  Bodice Down.clothing
+66d174a6-66dc-cfe4-5b51-48b3be18d099 clothing/Female Goth Outfit/Female Goth  Bodice Up.clothing
+02c4eae7-b6a3-b4b0-44b0-b7b29d7f913f clothing/Female City Outfit/Female City Footshaper.clothing
+e7263f17-46cf-5deb-7e5a-ecc0776f5241 clothing/Female City Outfit/Female City Top.clothing
+29a56cc8-3fcf-c575-02c7-14a303b12e17 clothing/Female City Outfit/Female City Jeans.clothing
+7700f429-88f0-7e57-7714-33c73ad1a4eb clothing/Male Party Outfit/Male Party Pants (Beige).clothing
+16ef95d1-2fe3-d4a3-509d-f03bb2d327ca clothing/Male Party Outfit/Male Party Shirt Up (Blue).clothing
+282d67ef-942e-27f4-9c7b-818f59967743 clothing/Male Party Outfit/Male Party Shirt Down (Blue).clothing
+02862ac0-a61d-94c2-5d11-5f5d319b1256 clothing/Male Party Outfit/Socks (Brown).clothing
+a8dee7f6-a796-12a0-91bd-abf2fff300cc clothing/Female Student Outfit/Female Student Sweater (Red).clothing
+07d61cde-bc5b-f95f-f747-2e57eab4ef12 clothing/Female Student Outfit/Female Student Leggings.clothing
+d973aaf2-ff8d-3b05-8c81-48305210b3bf clothing/Female Student Outfit/Female Student Skirt (Tartan).clothing
+e2efe57f-70e8-35e5-b92c-280e3e9c6e1f clothing/Female Party Outfit/Female Party Footshaper.clothing
+1b677754-5a07-641a-e989-34dcd985af1b clothing/Female Party Outfit/Female Party Dress Down.clothing
+81287180-509d-477c-b10d-d68e403d5bcb clothing/Female Party Outfit/Female Party Dress Top.clothing
+790d7d90-eba9-d269-2d38-5cd2e36e7b93 clothing/Male City Outfit/Male City Footshaper.clothing
+13b0d1c4-eb3c-9b89-2f13-9c0a714aab9f clothing/Male City Outfit/Male City Sweater Down.clothing
+7fa32e57-0b88-d0f5-37b5-65ddf513e341 clothing/Male City Outfit/Socks (Blue).clothing
+30c1bdb4-1f99-3ee9-2a2e-098e4a3ceda6 clothing/Male City Outfit/Male City Jacket.clothing
+cf03c095-647e-bd96-4ce2-63202cd5a171 clothing/Male City Outfit/Male City Sweater Up.clothing
+c437fefd-6025-fd89-e65c-aec2732f3007 clothing/Male City Outfit/Male City Jeans.clothing
+be969774-2a2b-0534-daee-f69357ff4adf clothing/Male Rocker Outfit/Socks (Black).clothing
+d53b27ad-73b9-8ea4-0896-7890b57dd8ed clothing/Male Rocker Outfit/Male Rocker Tank Down (White).clothing
+c272cb94-0081-49bb-d45e-aeda288b3c06 clothing/Male Rocker Outfit/Male Rocker Under Jacket.clothing
+0b29c4fd-9c3c-3047-fcb4-addd3e42a289 clothing/Male Rocker Outfit/Male Rocker Tank Up (White).clothing
+d6c00693-90e0-cbbd-cd3d-3a6ccd510f14 clothing/Male Rocker Outfit/Male Rocker Jeans.clothing
+f3061aa3-0069-96b4-67b5-e16633a2ef30 clothing/Male Designer Outfit/Socks (Teal).clothing
+ad4e858f-08a7-e67a-4d55-b0fc18b2518b clothing/Male Designer Outfit/Male Designer Pants (Green).clothing
+b1dc34e2-c8fb-3885-3a7e-10be1d5589dd clothing/Male Designer Outfit/Male Designer Tank Up.clothing
+9cde58a2-05ba-5c21-5c90-b76079185990 clothing/Male Designer Outfit/Male Designer Tank Down.clothing
+17a387e1-28c7-e24b-4bfc-527b2d377a1b clothing/Male Designer Outfit/Male Designer Pants Shirt (Green).clothing
+8175bd9f-ac1a-39e6-7cc6-93ab762f49bc clothing/Male Goth Outfit/Male Goth Shirt Down.clothing
+c4d1b050-1784-feb4-474f-ec3b1f1a29cb clothing/Male Goth Outfit/Male Goth Shirt Up.clothing
+72560c27-e48b-a6a5-10e3-d21dfb4bd4fb clothing/Male Goth Outfit/Male Goth Trousers.clothing
+69a2052e-1777-df94-49bd-8675ca576d87 clothing/Male Goth Outfit/Male Goth Jacket.clothing
+d1b530a9-b4c8-aeaf-9300-9b9d30c715d1 clothing/Female Designer Outfit/Female Designer Shirt Up (Blue).clothing
+8ea9f72c-6e64-e6bf-34ed-2713f84db063 clothing/Female Designer Outfit/Female Designer Capri Pants.clothing
+c1a68df8-3a01-4f17-0bab-10eb7df9c22a clothing/Female Designer Outfit/Female Designer Shoes Footshaper.clothing
+2b211c3e-d7c9-9e0e-0d96-e9357699bb25 clothing/Female Designer Outfit/Female Designer Shirt Down (Blue).clothing
+2ca8ddae-23ef-0132-d243-7ae953582dd0 clothing/Male Student Outfit/Male Student Top.clothing
+59332ea5-2a75-9ede-9ab7-f0ae70bbffcc clothing/Male Student Outfit/Male Student Footshaper.clothing
+b606cdd6-4c22-6cc0-4614-560e6b9beeba clothing/Male Student Outfit/Male Student Jeans.clothing
+6061a81b-e6bf-5909-b86a-268e5c6b28c3 clothing/Female Rocker Outfit/Female Rocker Jeans.clothing
+631feb23-6f72-ae9c-dd5e-51510bbe235b clothing/Female Rocker Outfit/Female Rocker Tank Down.clothing
+ddcd68c1-0cb9-4b32-a475-f2b9b96ec8d5 clothing/Female Rocker Outfit/Female Rocker Under Jacket.clothing
+abe169ff-ee4d-0e22-aa03-19b8116fdd7a clothing/Female Rocker Outfit/Female Rocker Tank Up.clothing
+
+#Gestures
+63af4bbd-7dba-fb00-01f6-bc2126ece403 gestures/frown.gesture
+afb80807-4214-7f3c-55b8-00858f56d37a gestures/:-P.gesture
+a53d49ad-d705-dd1b-318e-4d1cf3c04a11 gestures/embarrassed.gesture
+ff1114e1-4063-3abe-de2f-6d13f6cae508 gestures/:-).gesture
+3f258e00-f5ac-68b2-bfb0-0c3c0fa3e614 gestures/repulsed.gesture
+522d4d1d-0f75-c3e7-af30-990e5f394438 gestures/chuckle.gesture
+1ac2c678-3ab4-410b-2aad-30a7dc9c4504 gestures/;).gesture
+1f5466aa-2b68-e370-6bb5-a335e859afeb gestures/:-(.gesture
+159afee8-b7bf-c8fb-9c63-98276a1d6b28 gestures/kiss.gesture
+ff201a24-6893-4c41-77f2-bf707481e585 gestures/fear.gesture
+a41965be-10f2-1625-df3b-2fe35716998b gestures/shrug.gesture
+230ff836-fe1e-ab33-80c6-ef029c658136 gestures/scold.gesture
+bc2ff144-9a36-fdd0-316d-d86f5c9a43ac gestures/bored.gesture
+9e439264-0a7b-9190-d128-995092499c28 gestures/:-D.gesture
+ad88e068-dc0a-6ef2-5a97-929ad01d883b gestures/getlost.gesture
+a94ef3a0-7119-67b6-67e0-d93d5b08a544 gestures/nya.gesture
+252acecb-a169-eff2-4601-b06bbeb91e84 gestures/uhhuh.gesture
+032ac149-dacd-e88a-5397-b9996b58f278 gestures/cry.gesture
+e7135c15-a7bc-637e-2664-b6fbdc22428c gestures/worry.gesture
+26cc2407-84b5-6887-4564-85a9b0cfb01f gestures/laugh.gesture
+ea9ab69b-c2c7-3e18-a50b-37a9cfe457cd gestures/Male - Wow.gesture
+0ce71257-7a07-257f-f023-fd68575a3a4e gestures/Male - Stick tongue out.gesture
+f2483d55-bc31-38c0-65b2-9f7e87fce5c4 gestures/Male - Laugh.gesture
+fb262981-4295-f048-c280-629081bf3b6b gestures/Male - Boo.gesture
+ba38eeb2-d35f-0a07-0c04-0eb42fcc6010 gestures/Male - Excuse me.gesture
+e7584536-86f2-c962-405d-d14adff71f38 gestures/Male - Bored.gesture
+fc3de4b8-bd3e-662b-934c-b72714dab5bf gestures/Male - Hey.gesture
+b5ea617e-47cf-612b-2d99-8c6f6dcac218 gestures/Male - Blow kiss.gesture
+0813d01a-d3d3-32a4-48a3-26b6e1e01e39 gestures/Male - Get lost.gesture
+fa743da9-7e6e-d88e-3e4f-143dcb4fc01b gestures/Male - Repulsed.gesture
+1910ffbd-096c-5eb7-19f5-8c99ab6a748c gestures/Male - Shrug.gesture
+b6f560d1-e2ad-24df-344c-2943c47a6775 gestures/whistle.gesture
+b57c996d-cb06-43c8-749d-e9ce361f172e gestures/dance2.gesture
+af2b8320-e579-2c41-b717-969759aeb3ca gestures/rock.gesture
+97c5742d-1d74-9408-2bae-9738a9e9d084 gestures/pointyou.gesture
+44a87e64-2d78-14b7-1cde-ac0f5031621f gestures/bow.gesture
+2d03fd78-92fc-ca52-aabb-a4904e1339d1 gestures/dance3.gesture
+76d30ee1-c369-12ec-8dbc-9cf2f51120ff gestures/dance5.gesture
+43417d10-a2f7-7727-6fd4-dd7f04ad7a13 gestures/yes.gesture
+0247dbfa-f37e-64ab-d09f-2678884c7f4a gestures/extinguish.gesture
+0a3336cf-3ad1-012a-91c2-5b5620aaaef3 gestures/dance7.gesture
+8868cfa3-5b82-97ab-dc38-ded906f7fd90 gestures/scissor.gesture
+dbd054f1-132b-cc22-e46a-bad83c230c91 gestures/dance1.gesture
+04608b19-1668-399c-5790-b7df8d9dc9cf gestures/clap.gesture
+40b92916-8055-2562-008f-58924bd0e03c gestures/dance6.gesture
+76f7ced2-4f91-31c8-ff7d-e76b19abfa40 gestures/kmb.gesture
+52d9684f-2dcf-c252-2360-186b4236d07e gestures/muscle.gesture
+865c5fe0-aafb-671a-8ad5-778beb24b6f8 gestures/stretch.gesture
+6212ffdd-d447-a92f-18f3-8cb94a799d83 gestures/dance8.gesture
+5a68100b-e6ba-5170-649c-80beddc67035 gestures/smoke.gesture
+0401dc30-0fdd-1fc3-3e51-c683fe117184 gestures/no.gesture
+8b753e16-bd7d-2bb3-7765-671b7b31e77c gestures/count.gesture
+a6a09cb1-0845-5ec0-051e-16bb79b30ddf gestures/paper.gesture
+c63ac707-6325-14c8-d681-54b81d0dff77 gestures/pointme.gesture
+66ecd9bd-22e1-2633-f41e-ad1a38205662 gestures/afk.gesture
+aca78492-0487-03ec-4eb5-5c8e76c837e1 gestures/no!.gesture
+00b48fa0-ac43-fadf-d061-6b726a24a90a gestures/dance4.gesture
+0eeb5ef7-10dd-4e4a-11a5-d053011fcdf2 gestures/yes!.gesture
+ad22cda1-00c1-21cc-2f35-9ea5b8636f9e gestures/Female - Laugh.gesture
+4f23cc4a-712e-aabc-afcf-3cab4c1164ea gestures/Female - Embarrassed.gesture
+d26fbcbc-1985-92ef-0cf0-7148b7ed0c08 gestures/Female - Repulsed.gesture
+90bdcd26-2c6b-44a7-aab2-18c5a04f3fc3 gestures/Female - Boo.gesture
+d918a0d8-7291-ce83-762f-3f68dcc7402d gestures/Female - Chuckle.gesture
+29f11d26-7d80-4b53-a97c-fce85d94e392 gestures/Female - Over here.gesture
+8dbc8a59-18ec-c9c0-8edf-ddcb8a749e5f gestures/Female - Stick tongue out.gesture
+e4485e5d-6bcc-e5ca-96fd-303227e93d6c gestures/Female - Shrug.gesture
+815c3d49-d7fa-0214-3053-8eb9e63fda4c gestures/Female - Hey.gesture
+4c450f9e-07c0-2f5a-bc89-57de56db8ba1 gestures/Female - Excuse me.gesture
+3f1cf9b6-f52c-46cd-bcf7-ffb7c8c25aea gestures/Female - Hey baby.gesture
+3d8a32a0-3c25-ddcc-f807-e50f796e1dde gestures/Female - Blow kiss.gesture
+25252e5b-394b-fdab-76ee-28980cd62f81 gestures/Female - Get lost.gesture
+68efa755-f0dd-8da2-38e9-bc9ea6b4ddd6 gestures/Female - Please.gesture
+a166cdc3-ea15-0c01-ca5b-d3fed6e3ca75 gestures/Female - Cry.gesture
+5480a924-8b06-9551-2af7-bf59452870e5 gestures/Female - Wow.gesture
+9583adac-bc9b-a021-ab8f-26018db46ab5 gestures/Female - Bored.gesture
+afd64d9d-572d-b4f1-69bc-a79f70768177 gestures/Female - Looking good.gesture
