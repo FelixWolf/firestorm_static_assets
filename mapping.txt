@@ -320,3 +320,350 @@ a166cdc3-ea15-0c01-ca5b-d3fed6e3ca75 gestures/Female - Cry.gesture
 5480a924-8b06-9551-2af7-bf59452870e5 gestures/Female - Wow.gesture
 9583adac-bc9b-a021-ab8f-26018db46ab5 gestures/Female - Bored.gesture
 afd64d9d-572d-b4f1-69bc-a79f70768177 gestures/Female - Looking good.gesture
+
+################
+#Other internal#
+################
+#Bakes
+5a9f4a74-30f2-821c-b88d-70499d3e7183 textures/use_baked_head.texture
+ae2de45c-d252-50b8-5c6e-19f39ce79317 textures/use_baked_upper.texture
+24daea5f-0539-cfcf-047f-fbc40b2786ba textures/use_baked_lower.texture
+52cc6bb6-2ee5-e632-d3ad-50197b1dcb8a textures/use_baked_eyes.texture
+43529ce8-7faa-ad92-165a-bc4078371687 textures/use_baked_skirt.texture
+09aac1fb-6bce-0bee-7d44-caac6dbb6c63 textures/use_baked_hair.texture
+ff62763f-d60a-9855-890b-0c96f8f8cd98 textures/use_baked_leftarm.texture
+8e915e25-31d1-cc95-ae08-d58a47488251 textures/use_baked_leftleg.texture
+9742065b-19b5-297c-858a-29711d539043 textures/use_baked_aux1.texture
+03642e83-2bd1-4eb9-34b4-4c47ed586d2d textures/use_baked_aux2.texture
+edd51b77-fc10-ce7a-4b3d-011dfc349e4f textures/use_baked_aux3.texture
+
+#Environment
+#e97cf410-8e61-7005-ec06-629eba4cd1fb textures/alpha_gradient.texture
+38b86f85-2575-52a9-a531-23108d8da837 textures/alpha_gradient_2d.texture
+35f217a3-f618-49cf-bbca-c86d486551a9 textures/collision texture.texture
+79504bf5-c3ec-0763-6563-d843de66d0a1 textures/grass_texture_1.texture
+6c4727b8-ac79-ba44-3b81-f9aa887b47eb textures/grass_texture_2.texture
+99bd60a2-3250-efc9-2e39-2fbcadefbecc textures/grass_texture_3.texture
+7a2b3a4a-53c2-53ac-5716-aac7d743c020 textures/grass_texture_4.texture
+5d3e196b-fd4d-ada7-e4c1-99f8e9f1cfbf textures/noentrylines.texture
+ac8f8627-6a30-8da8-d4bd-958668eea7a0 textures/noentrypasslines.texture
+e3548c46-8d5e-03da-fcab-4fc36ad818bb textures/propertyline.texture
+b8d3965a-ad78-bf43-699b-bff8eca6c975 textures/terrain_dirt.texture
+0bc58228-74a0-7e83-89bc-5c23464bcec5 textures/terrain_dirt_detail.texture
+abb783e6-3e93-26c0-248a-247666855da3 textures/terrain_grass.texture
+63338ede-0037-c4fd-855b-015d77112fc8 textures/terrain_grass_detail.texture
+179cdabd-398a-9b6b-1391-4dc333ba321f textures/terrain_mountain.texture
+303cd381-8560-7579-23f1-f0a880799740 textures/terrain_mountain_detail.texture
+beb169c7-11ea-fff2-efe5-0f24dc881df2 textures/terrain_rock.texture
+53a2f406-4895-1d13-d541-d2e3b86bc19c textures/terrain_rock_detail.texture
+18fb888b-e8f1-dce7-7da7-321d651ea6b0 textures/tree_beach_grass_1.texture
+fb2ae204-3fd1-df33-594f-c9f882830e66 textures/tree_cypress_1.texture
+30047cec-269d-408e-0c30-b2603b887268 textures/tree_cypress_2.texture
+64367bd1-697e-b3e6-0b65-3f862a577366 textures/tree_dogwood.texture
+96b4de31-f4fa-337d-ec78-451e3609769e textures/tree_eelgrass.texture
+a6162133-724b-54df-a12f-51cd070ad6f3 textures/tree_eucalyptus.texture
+8872f2b8-31db-42d8-580a-b3e4a91262de textures/tree_fern.texture
+2caf1179-7861-6ff3-4b7d-46e17780bdfa textures/tree_kelp_1.texture
+2a4880b6-b7a3-690a-2049-bfbe38eafb9f textures/tree_kelp_2.texture
+8a515889-eac9-fb55-8eba-d2dc09eb32c8 textures/tree_oak.texture
+ca4e8c27-473c-eb1c-2f5d-50ee3f07d85c textures/tree_palm_1.texture
+2d784476-d0db-9979-0cff-9408745a7cf3 textures/tree_palm_2.texture
+0187babf-6c0d-5891-ebed-4ecab1426683 textures/tree_pine_1.texture
+d691a01c-13b7-578d-57c0-5caef0b4e7e1 textures/tree_pine_2.texture
+6de37e4e-7029-61f5-54b8-f5e63f983f58 textures/tree_plumeria.texture
+5894e2e7-ab8d-edfa-e61c-18cf16854ba3 textures/tree_sea_sword.texture
+5bc11cd6-2f40-071e-a8da-0903394204f9 textures/tree_tropical_1.texture
+cdd9a9fc-6d0b-f90d-8416-c72b6019bca8 textures/tree_tropical_2.texture
+8f458549-173b-23ff-d4ff-bfaa5ea2371b textures/undergrowth_1.texture
+2bfd3884-7e27-69b9-ba3a-3e673f680004 textures/water.texture
+7c0cf89b-44b1-1ce2-dd74-07102a98ac2a textures/winter_tree_aspen.texture
+10d2a01a-0818-84b9-4b96-c2eb63256519 textures/winter_tree_pine_1.texture
+67931331-0c02-4876-1255-28770896c6a2 textures/winter_tree_pine_2.texture
+
+#Avatar
+da5d4079-7819-6b53-d2a4-dc9929381d7d textures/silhouette.texture
+3a7f4f0d-be14-ee78-29e3-fc8b0b2a68d3 textures/avatar_thumb_bkgrnd.texture
+6522e74d-1660-4e7f-b601-6f48c1659a77 textures/eyes.texture
+7ca39b4c-bd19-4699-aff7-f93fd03d3e7b textures/hair.texture
+168e6813-096e-07ea-97ae-fd416826f627 textures/pixiesmall.texture
+
+#UI
+f8124d60-2875-c358-7847-2acb63e5400c textures/button_disabled_32x128.texture
+d8faf8cb-ee6e-b0b5-abd9-bde873ad3461 textures/button_enabled_32x128.texture
+1eddba75-b682-110a-104e-6cdcce616a25 textures/button_enabled_selected_32x128.texture
+70bf2262-3eed-4996-88ac-076907e8921d textures/cam_rotate_in.texture
+88745b46-da05-11d5-8ac0-0003477c4611 textures/cam_rotate_out.texture
+fe2fc73b-5a64-4a8e-aacc-46fa81faf96a textures/cam_tracking_in.texture
+95c4ea0e-e3c2-4904-b847-7d7676139ebb textures/cam_tracking_out.texture
+deed3f4b-93e9-4183-a3b0-a5a98a6de1bb textures/cam_zoom_minus_in.texture
+bb02e941-cb3b-4dd3-892a-6841b5de6e45 textures/cam_zoom_out.texture
+c7aefd32-ce13-4242-82cc-2631d44ff9d3 textures/cam_zoom_plus_in.texture
+7d94cb59-32a2-49bf-a516-9e5a2045f9d9 textures/checkbox_disabled_false.texture
+c817c642-9abd-4236-9287-ae0513fe7d2b textures/checkbox_disabled_true.texture
+05bb64ee-96fd-4243-b74e-f40a41bc53ba textures/checkbox_enabled_false.texture
+cf4a2ed7-1533-4686-9dde-df9a37ddca55 textures/checkbox_enabled_true.texture
+47a8c844-cd2a-4b1a-be01-df8b1612fe5d textures/closebox.texture
+e5821134-23c0-4bd0-af06-7fa95b9fb01a textures/close_in_blue.texture
+779e4fa3-9b13-f74a-fba9-3886fe9c86ba textures/close_inactive_blue.texture
+b31c1335-0e9c-4927-bc90-53277777d9c1 textures/combobox_arrow.texture
+6e1a3980-bf2d-4274-8970-91e60d85fb52 textures/crosshairs.texture
+34c9398d-bb78-4643-9633-46a2fa3e9637 textures/minimize.texture
+6e72abba-1378-437f-bf7a-f0c15f3e99a3 textures/minimize_inactive.texture
+39801651-26cb-4926-af57-7af9352c273c textures/minimize_pressed.texture
+b2ef2d31-9714-a07b-6ca7-31638166364b textures/notify_box_icon.texture
+07d0ea4c-af0c-aad1-dbbf-c24020ff2b80 textures/notify_next.texture
+74ba3584-58ea-9984-5b76-62d37942ab77 textures/notify_tip_icon.texture
+7a1ba9b8-1047-4d1e-9cfc-bc478c80b63f textures/radio_active_false.texture
+52f09e07-5816-4052-953c-94c6c10479b7 textures/radio_active_true.texture
+90688481-67ff-4af0-be69-4aa084bcad1e textures/radio_inactive_false.texture
+1975db39-aa29-4251-aea0-409ac09d414d textures/radio_inactive_true.texture
+e3690e25-9690-4f6c-a745-e7dcd885285a textures/resize_handle_bottom_right_blue.texture
+111b39de-8928-4690-b7b2-e17d5c960277 textures/restore.texture
+0eafa471-70af-4882-b8c1-40a310929744 textures/restore_inactive.texture
+90a0ed5c-2e7b-4845-9958-a64a1b30f312 textures/restore_pressed.texture
+d2421bab-2eaf-4863-b8f6-5e4c52519247 textures/scrollbutton_down_in_blue.texture
+b4ecdecf-5c8d-44e7-b882-17a77e88ed55 textures/scrollbutton_down_out_blue.texture
+ea137a32-6718-4d05-9c22-7d570d27b2cd textures/scrollbutton_left_in_blue.texture
+43773e8d-49aa-48e0-80f3-a04715f4677a textures/scrollbutton_left_out_blue.texture
+b749de64-e903-4c3c-ac0b-25fb6fa39cb5 textures/scrollbutton_right_in_blue.texture
+3d700d19-e708-465d-87f2-46c8c0ee7938 textures/scrollbutton_right_out_blue.texture
+a93abdf3-27b5-4e22-a8fa-c48216cd2e3a textures/scrollbutton_up_in_blue.texture
+dad084d7-9a46-452a-b0ff-4b9f1cefdde9 textures/scrollbutton_up_out_blue.texture
+a985ac71-052f-48e6-9c33-d931c813ac92 textures/spin_down_in_blue.texture
+b6d240dd-5602-426f-b606-bbb49a30726d textures/spin_down_out_blue.texture
+c8450082-96a0-4319-8090-d3ff900b4954 textures/spin_up_in_blue.texture
+56576e6e-6710-4e66-89f9-471b59122794 textures/spin_up_out_blue.texture
+b28df901-6b8d-d31c-7903-4eb9676d4bfc textures/square_btn_32x128.texture
+c48c9e95-191b-96d3-08b2-6e8ada58b651 textures/square_btn_selected_32x128.texture
+66864f3c-e095-d9c8-058d-d6575e6ed1b8 textures/startup_logo.texture
+#175a6b75-45c9-c2c2-4765-bf37a3909b53 textures/status_build.texture
+#beb0d821-6725-abdf-032d-1f70cdabde82 textures/status_busy.texture
+#0e058115-5b8f-c3d7-dcaa-9623d92885d1 textures/status_fly.texture
+#4330e8ce-b39b-1eb8-c2ec-a97c0b3947b5 textures/status_health.texture
+#5863eb7a-1546-6501-533a-6061f73a36b7 textures/status_money.texture
+#4cc1afcd-04dd-178f-e074-0f9dc730ab45 textures/status_scripts.texture
+bf0a8779-689b-48c3-bb9a-6af546366ef4 textures/tab_bottom_blue.texture
+c001d8fd-a869-4b6f-86a1-fdcb106df9c7 textures/tab_bottom_selected_blue.texture
+1097dcb3-aef9-8152-f471-431d840ea89e textures/tab_left.texture
+bea77041-5835-1661-f298-47e2d32b7a70 textures/tab_left_selected.texture
+1ed83f57-41cf-4052-a3b4-2e8bb78d8191 textures/tab_top_blue.texture
+16d032e8-817b-4368-8a4e-b7b947ae3889 textures/tab_top_selected_blue.texture
+
+#Inventory
+db2d9c2d-0bbd-21e2-e83a-103ea2def7a8 textures/button_anim_pause.texture
+ad65d67a-777b-fbfa-693d-4bdcfca2acca textures/button_anim_pause_selected.texture
+2a7f6738-5d82-2ff3-d419-30ed09cbb72b textures/button_anim_play.texture
+119c37bb-24af-45fe-ae11-3a6bc3c85138 textures/button_anim_play_selected.texture
+e10c9e36-d9f6-c8b4-de96-557dccce9205 textures/button_anim_stop.texture
+b8c0e0aa-2771-439e-c919-d2f5dad69a1c textures/button_anim_stop_selected.texture
+#c4e657a1-4c86-0159-2da0-32ff948484e6 textures/container_animation.texture
+#770cb2df-758d-34d5-36c7-e3de06db5b5d textures/container_bodypart.texture
+#dd90406f-4c8f-a3f9-41df-d562f94f09e0 textures/container_clothing.texture
+#59cd31c0-2791-3c48-f740-f0a36c68653e textures/container_gesture.texture
+#24c63386-04f7-ce6f-4ff2-dfb215d2e21f textures/container_landmark.texture
+#849d3292-d9fa-7186-5465-dd7b5fc1ec48 textures/container_many_things.texture
+#ad887ae1-2bee-f2c9-6786-5599de3c95c4 textures/container_object.texture
+#b93bd494-c4bd-bcdf-4a59-35a9497d03f3 textures/container_script.texture
+#5ddea031-cfa3-2776-43e3-c7146c1b4cd6 textures/container_sound.texture
+#b3f95caf-bd62-bef3-0ded-dea752920629 textures/container_texture.texture
+4d59b3ee-f29d-b912-2bcc-9bb1f8a07ec6 textures/inv_folder_animation.texture
+1fe05580-1d2f-0345-b28b-52b6e3a20e5d textures/inv_folder_bodypart.texture
+a3735971-e2b2-d78a-580d-d265cd8f2484 textures/inv_folder_callingcard.texture
+f1427d3d-b2e8-97c4-69ab-1f36d4c0e8f0 textures/inv_folder_clothing.texture
+4de9129a-9fc1-d759-d739-364293906ba2 textures/inv_folder_gesture.texture
+9f921155-7c8c-e276-d5ec-03ac9340584d textures/inv_folder_landmark.texture
+9a371a04-297d-bacf-0d16-5f49753efe1d textures/inv_folder_lostandfound.texture
+a9e75d84-5073-9cb7-10a9-1ca68ef5c7ba textures/inv_folder_notecard.texture
+113e5133-fd0d-ee51-4a59-9d67ca10e8a7 textures/inv_folder_object.texture
+86f00960-c3e9-9680-145d-3beffd743e9c textures/inv_folder_plain_closed.texture
+d15dc243-2d0b-47af-0ce1-ec376464bdc8 textures/inv_folder_plain_open.texture
+baa5c310-6a6d-cc48-51eb-65196ba31d77 textures/inv_folder_script.texture
+6efe85e7-800f-1843-296c-a5b7adffe091 textures/inv_folder_snapshot.texture
+e10cb910-1e71-da47-bd12-8c53f7793714 textures/inv_folder_sound.texture
+743f035b-a049-43f4-16c7-7ec8daa2c481 textures/inv_folder_texture.texture
+88ad072e-ea0b-aabd-5ac0-b37862a6eb66 textures/inv_folder_trash.texture
+b5cda0d6-d196-ce48-63db-d04323ef8931 textures/inv_item_animation.texture
+5bcae41e-aa5d-02f8-edf1-605ebdd875ab textures/inv_item_attach.texture
+d2a5362d-5c55-57dd-a9e9-5c814d1ddc16 textures/inv_item_bodypart.texture
+d0afe86b-2489-7600-55b7-6abb0a63d9f9 textures/inv_item_callingcard_offline.texture
+672cc53e-8dc0-ba91-2a4e-574104cf071c textures/inv_item_callingcard_online.texture
+34dfe476-8e26-0e3a-11cf-76cc4a7126ce textures/inv_item_clothing.texture
+eaa5fd96-5c25-06ef-2280-7ef20203e167 textures/inv_item_eyes.texture
+5579245d-d5bf-5f13-46b0-8624490de24c textures/inv_item_gesture.texture
+117b11cb-c04e-5081-13da-1a8846070fd0 textures/inv_item_gloves.texture
+6bca3bf4-ed6d-d438-63a0-2a7066d03a0b textures/inv_item_hair.texture
+8df59386-56e0-c811-0443-840da3acb3a5 textures/inv_item_jacket.texture
+bf25a2a0-85da-7fa0-0993-e461768d0221 textures/inv_item_landmark.texture
+229fac85-5428-4ab7-adeb-eb8389e91092 textures/inv_item_landmark_visited.texture
+23ce8a2c-9ea2-d863-6572-806f0645b0c7 textures/inv_item_notecard.texture
+0f0780a0-89c4-742a-ef28-26405a41cf85 textures/inv_item_object.texture
+a87a58ca-f857-63b1-0acf-072711ed1bdb textures/inv_item_pants.texture
+59a3df81-ed76-06c9-7264-6dada535e7a3 textures/inv_item_script.texture
+4463e433-4db5-79ef-c1b0-4821b03ddb07 textures/inv_item_shape.texture
+e2ffb62b-6abc-22d6-952d-764759b4d636 textures/inv_item_shirt.texture
+cf384fa5-1edd-c37c-2134-283dd4fe3396 textures/inv_item_shoes.texture
+0b43f826-2abc-2944-7d72-10777a51d19b textures/inv_item_skirt.texture
+3810d584-b092-7caa-57e0-010f192b9659 textures/inv_item_snapshot.texture
+22137c6d-6ec5-6eee-9a2e-2d7a9e6cbcd4 textures/inv_item_socks.texture
+eb414d69-c77d-d4e7-66e6-6c2e6f6c1976 textures/inv_item_sound.texture
+19f452d7-4eee-9f46-76cc-5497d17f1dd9 textures/inv_item_texture.texture
+2f15dc09-4385-526c-aa5d-d9d516ec7d99 textures/inv_item_underpants.texture
+f72ab629-a3ab-de0c-35c0-5285e27478ce textures/inv_item_undershirt.texture
+
+#Map
+79156764-de98-4815-9d50-b10a7646bcf4 textures/compass markers.texture
+586383e8-4d9b-4fba-9196-2b5938e79c2c textures/direction_arrow.texture
+db0dadd5-026a-88cf-f5c1-523a0a2daa3e textures/map_avatar_16.texture
+0be58a91-8065-c02b-7a12-2cc14dddbc37 textures/map_avatar_8.texture
+#02fbdc40-5e07-a6e1-228b-58e10f8335b7 textures/map_avatar_you_8.texture
+6008be5e-9267-2a3a-9798-e81b076c22ca textures/map_event.texture
+f9cdba28-a227-d613-2f16-ce06209314ae textures/map_event_mature.texture
+ae9b8f5f-03a1-2e71-db77-6eb27a1ba181 textures/map_home.texture
+bf1b2bb0-13b1-40ae-3354-b1b93761bdb4 textures/map_telehub.texture
+a3878395-ef00-a0e6-ee9a-f45ed6b9ce59 textures/map_track_16.texture
+bfdc7bf6-e2ee-1754-f4df-cc25887714ad textures/map_track_8.texture
+
+#Find
+96abf5b1-335c-6b76-61e3-74ada07f3cb8 textures/icon_auction.texture
+34648c67-5bfb-5790-e05e-8bd6600fd087 textures/icon_avatar_offline.texture
+529ed15b-3d41-dcc1-79de-90bf21770b5b textures/icon_avatar_online.texture
+5b30a285-f1e3-92b1-dcd3-0d07366ced3e textures/icon_day_cycle.texture
+be235ae0-53cf-1d68-b3ae-cf375ed1fb58 textures/icon_event.texture
+cc090999-1b3e-2e97-7a38-c9f4afd10297 textures/icon_event_mature.texture
+f20728fd-1670-3771-2293-e0dd3f0bcaab textures/icon_for_sale.texture
+04237108-a879-5a95-9b0c-b18fd09bc447 textures/icon_group.texture
+c421ddf2-b9d7-b373-503c-f4c423f37f1c textures/icon_land_for_landless.texture
+ba0bac4e-815e-14e1-2895-5065b8c703b3 textures/icon_place.texture
+bdd47da5-5b5b-c906-37ad-16aaa64f096f textures/icon_popular.texture
+77ca91a2-4431-aeaf-6249-3dd99c7dd86d textures/icon_top_pick.texture
+
+#Move
+db11d956-5e7d-4aa5-b39d-7774d339fc5c textures/move_backward_in.texture
+3ae8bb18-ed97-4cd3-ae5c-d54bc8479fe7 textures/move_backward_out.texture
+b92a70b9-c841-4c94-b4b3-cee9eb460d48 textures/move_down_in.texture
+b5abc9fa-9e62-4e03-bc33-82c4c1b6b689 textures/move_down_out.texture
+54197a61-f5d1-4c29-95d2-c071d08849cb textures/move_forward_in.texture
+a0eb4021-1b20-4a53-892d-8faa9265a6f5 textures/move_forward_out.texture
+724996f5-b956-46f6-9844-4fcfce1d5e83 textures/move_left_in.texture
+82476321-0374-4c26-9567-521535ab4cd7 textures/move_left_out.texture
+7eeb57d2-3f37-454d-a729-8b217b8be443 textures/move_right_in.texture
+1fbe4e60-0607-44d1-a50a-032eff56ae75 textures/move_right_out.texture
+95463c78-aaa6-464d-892d-3a805b6bb7bf textures/move_turn_left_in.texture
+13a93910-6b44-45eb-ad3a-4d1324c59bac textures/move_turn_left_out.texture
+5e616d0d-4335-476f-9977-560bccd009da textures/move_turn_right_in.texture
+5a44fd04-f52b-4c30-8b00-4a31e27614bd textures/move_turn_right_out.texture
+49b4b357-e430-4b56-b9e0-05b8759c3c82 textures/move_up_in.texture
+f887146d-829f-4e39-9211-cf872b78f97c textures/move_up_out.texture
+
+#Edit
+6c9fa78a-1c69-2168-325b-3e03ffa348ce textures/bump_bark.texture
+b8eed5f0-64b7-6e12-b67f-43fa8e773440 textures/bump_bricks.texture
+9deab416-9c63-78d6-d558-9a156f12044c textures/bump_checker.texture
+db9d39ec-a896-c287-1ced-64566217021e textures/bump_concrete.texture
+f2d7b6f6-4200-1e9a-fd5b-96459e950f94 textures/bump_crustytile.texture
+d9258671-868f-7511-c321-7baef9e948a4 textures/bump_cutstone.texture
+d21e44ca-ff1c-a96e-b2ef-c0753426b7d9 textures/bump_discs.texture
+4726f13e-bd07-f2fb-feb0-bfa2ac58ab61 textures/bump_gravel.texture
+e569711a-27c2-aad4-9246-0c910239a179 textures/bump_petridish.texture
+073c9723-540c-5449-cdd4-0e87fdc159e3 textures/bump_siding.texture
+ae874d1a-93ef-54fb-5fd3-eb0cb156afc0 textures/bump_stonetile.texture
+92e66e00-f56f-598a-7997-048aa64cde18 textures/bump_stucco.texture
+83b77fc6-10b4-63ec-4de7-f40629f238c5 textures/bump_suction.texture
+735198cf-6ea0-2550-e222-21d3c6a341ae textures/bump_weave.texture
+058c75c0-a0d5-f2f8-43f3-e9699a89c2fc textures/bump_woodgrain.texture
+32dfd1c8-7ff6-5909-d983-6d4adfb4255d textures/missing_asset.texture
+c2b8c90a-7dca-26e3-1a63-7aa4a0389cf9 textures/object_cone.texture
+cf69c64b-f19e-e1f3-a586-42fef31a23be textures/object_cone_active.texture
+70c747ac-1de3-a8b9-514d-101753ca6ccb textures/object_cube.texture
+f9c5e213-1076-7a7d-7889-52388aad2c1a textures/object_cube_active.texture
+13e35d95-5f6c-9a91-1766-49dedf9b1267 textures/object_cylinder.texture
+3f3e4932-8412-e2a7-cfe9-92caf5978b1b textures/object_cylinder_active.texture
+7ca8e672-920b-4653-3970-1abc91abef58 textures/object_grass.texture
+d0fc7cc9-646a-6860-cf7c-1d9e58cd6dab textures/object_grass_active.texture
+69d5e60c-739a-40b1-b526-84072121e394 textures/object_hemi_cone.texture
+2e0c5435-95bb-1c0d-5da1-42336fb1cfc0 textures/object_hemi_cone_active.texture
+f4be3e06-24a8-f86e-acc7-7daefc0572b7 textures/object_hemi_cylinder.texture
+67279486-cfc1-3633-de42-85db65db373c textures/object_hemi_cylinder_active.texture
+b67251ab-1716-b9fb-f911-967ba3fe027b textures/object_hemi_sphere.texture
+6c489466-3058-6475-6b1b-e5fc1d49f1f3 textures/object_hemi_sphere_active.texture
+02935f3a-dcda-3b42-1874-da89d4c12870 textures/object_prism.texture
+223aac97-bd2f-ec2e-ad45-5641b77c78f9 textures/object_prism_active.texture
+9dde8b56-2cc4-a932-b63a-38c3a83221ad textures/object_pyramid.texture
+e7217b1a-e3d8-e339-d28a-d7714d0b5bee textures/object_pyramid_active.texture
+a7610e41-4647-16d8-0e0e-85a1211c1596 textures/object_ring.texture
+2c955a73-fa31-237b-a4a1-5c8ede3bae50 textures/object_ring_active.texture
+7fa122c0-b994-460e-8636-cdc451d67268 textures/object_sphere.texture
+f2c3bcbc-2904-41a5-1c22-688f176fd1ee textures/object_sphere_active.texture
+e17db404-9fc5-9534-1038-777c82b2771f textures/object_tetrahedron.texture
+2792ea3b-c052-85fe-d168-a62b2f4e9d7c textures/object_tetrahedron_active.texture
+19e1f4c9-6aa6-4414-981d-59a1343a6472 textures/object_torus.texture
+ef2bca77-5004-4547-b00a-3b96e463f89f textures/object_torus_active.texture
+710d1bec-fb33-28f1-e77e-ddbb5b51f5ed textures/object_tree.texture
+da4835c7-b12a-41dd-11db-dae452f040c2 textures/object_tree_active.texture
+7ce81316-a478-480f-961c-435fcbdecaf0 textures/object_tube.texture
+55c3e4d1-cfdc-48a8-af32-a34844b91832 textures/object_tube_active.texture
+89556747-24cb-43ed-920b-47caed15465f textures/plywood.texture
+a85ac674-cb75-4af6-9499-df7c5aaf7a28 textures/selected texture.texture
+d2a0d4d4-54eb-4d16-be4b-4eae43845c74 textures/tool_dozer.texture
+d4afdbbe-1550-4b7d-91de-95731f47e8e3 textures/tool_dozer_active.texture
+#86fe4df4-0ecb-4382-b9ae-475925a92388 textures/tool_land.texture
+#34e60587-0791-4a07-8918-f5995fcc22a3 textures/tool_land_active.texture
+#06964fe4-033f-448a-95c9-30dc41d1be8b textures/tool_orbit.texture
+##ee4e07db-3f72-4098-bd4c-aef34515a7bc textures/tool_orbit_active.texture
+#a32aa302-0a15-48d2-b2b1-4d69f1161173 textures/tool_pan.texture
+#24d9ad33-0b42-4eb5-99a3-659d838bc5c0 textures/tool_pan_active.texture
+27eb8829-fe65-45ed-a49a-73aac42f4b38 textures/tool_zoom.texture
+69445f58-5c8e-44e0-9d2e-47408bb43b39 textures/tool_zoom_active.texture
+5748decc-f629-461c-9a36-a35a221fe21f textures/white.texture
+
+#Misc
+b9e1cf8a-9660-c020-0c69-18f1ea27268a textures/alpha_noise.texture
+e121e2fc-7573-740f-edfd-0d45a9ba486e textures/alpha_sizzle.texture
+e2244626-f22f-4839-8123-1e7baddeb659 textures/black.texture
+267e26d3-e0e1-41b8-91b1-3b337102928d textures/darkgray.texture
+ca7609c6-6ec6-32d9-332e-0d8f437ef644 textures/legend.texture
+f8e2c2f0-7d5e-bb9a-68d0-7a3e87984784 textures/lightning.texture
+eef34d99-4f5b-efa1-4586-b4853c430dd3 textures/lightning (flipped horizontally).texture
+c520bf46-cc5d-412b-a60b-9f1bd245189f textures/lightgray.texture
+38ce8b3c-fb30-5c59-9926-bd643613f606 textures/rounded_square.texture
+4c95e6bc-fe77-9cb4-b58a-909848042c1e textures/rounded_square_soft.texture
+
+
+#Sounds
+ed124764-705d-d497-167a-182cd9fa2e6c sounds/bell ting.sound
+4c8c3c77-de8d-bde2-b9b8-32635e0fd4a6 sounds/click.sound
+219c5d93-6c09-31c5-fb3f-c5fe7495c115 sounds/health reduction (female).sound
+e057c244-5768-1056-c37e-1537454eeb62 sounds/health reduction (male).sound
+67cc2844-00f3-2b3c-b991-6418d01e1bb7 sounds/IM session, new incoming (2 bells).sound
+c825dfbc-9827-7e02-6507-3713d18916c1 sounds/IM start.sound
+67cc2844-00f3-2b3c-b991-6418d01e1bb7 sounds/instant message notification.sound
+4174f859-0d3d-c517-c424-72923dc21f65 sounds/invalid operation.sound
+5e191c7b-8996-9ced-a177-b2ac32bfea06 sounds/keyboard loop.sound
+77a018af-098e-c037-51a6-178f05877c6f sounds/money change, down (coins).sound
+104974e3-dfda-428b-99ee-b0d4e748d3a3 sounds/money change, up (cash register bell).sound
+2ca849ba-2885-4bc3-90ef-d4987a5b983a sounds/null keystroke.sound
+be582e5d-b123-41a2-a150-454c39e961c8 sounds/object collision.sound
+212b6d1e-8d9c-4986-b3aa-f3c6df8d987d sounds/object collision (rubber).sound
+d55c7f3c-e1c3-4ddc-9eff-9ef805d9190e sounds/object collision (plastic).sound
+2d8c6f51-149e-4e23-8413-93a379b42b67 sounds/object collision (flesh).sound
+6f00669f-15e0-4793-a63e-c03f62fee43a sounds/object collision (wood splintering?).sound
+85cda060-b393-48e6-81c8-2cfdfb275351 sounds/object collision (glass break).sound
+d1375446-1c4d-470b-9135-30132433b678 sounds/object collision (metal clunk).sound
+f4a0660f-5446-dea2-80b7-6482a082803c sounds/object create (whoosh).sound
+0cb7b00a-4c10-6948-84de-a93c09af2ba9 sounds/object delete.sound
+3c8fc726-1fd6-862d-fa01-16c5b2568db6 sounds/object rez (shake).sound
+8eaed61f-92ff-6485-de83-4dcc938a478e sounds/pie menu appear (ding).sound
+d9f73cf8-17b4-6f7a-1565-7951226c305d sounds/pie menu slice highlight.sound
+f6ba9816-dcaf-f755-7b67-51b31b6233e5 sounds/pie menu slice highlight1.sound
+7aff2265-d05b-8b72-63c7-dbf96dc2f21f sounds/pie menu slice highlight2.sound
+09b2184e-8601-44e2-afbb-ce37434b8ba1 sounds/pie menu slice highlight3.sound
+bbe4c7fc-7044-b05e-7b89-36924a67593c sounds/pie menu slice highlight4.sound
+d166039b-b4f5-c2ec-4911-c85c727b016c sounds/pie menu slice highlight5.sound
+242af82b-43c2-9a3b-e108-3b0c7e384981 sounds/pie menu slice highlight6.sound
+c1f334fb-a5be-8fe7-22b3-29631c21cf0b sounds/pie menu slice highlight7.sound
+3d09f582-3851-c0e0-f5ba-277ac5c73fb4 sounds/snapshot.sound
+d7a9a565-a013-2a69-797d-5332baa1a947 sounds/teleport_texture apply.sound
+e95c96a5-293c-bb7a-57ad-ce2e785ad85f sounds/thunder.sound
+2c346eda-b60c-ab33-1119-b8941916a499 sounds/window close.sound
+c80260ba-41fd-8a46-768a-6bf236360e3a sounds/window open.sound
+6cf2be26-90cb-2669-a599-f5ab7698225f sounds/zipper.sound
